@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Marketing Analysis Store Sales Prediction Project repository! This project aims to delve into the fascinating world of predicting store sales using various machine learning and deep learning techniques. We explore the application of linear regression, backpropagation neural networks, and recurrent neural networks to forecast weekly sales for a specific store department.
+Hi! Welcome to the Marketing Analysis Store Sales Prediction Project repository! This project aims to delve into the fascinating world of predicting store sales using various machine learning and deep learning techniques. We explore the application of linear regression, backpropagation neural networks, and recurrent neural networks to forecast weekly sales for a specific store department.
 
 ## Description
 
